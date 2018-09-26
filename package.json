@@ -1,0 +1,26 @@
+{
+	"private": true,
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava",
+		"start": "micro",
+		"dev": "micro-dev"
+	},
+	"dependencies": {
+		"control-access": "^0.1.0",
+		"etag": "^1.8.1",
+		"graphql-got": "^0.1.1",
+		"micro": "^8.0.4"
+	},
+	"devDependencies": {
+		"ava": "*",
+		"delay": "^2.0.0",
+		"got": "^7.1.0",
+		"micro-dev": "^1.2.3",
+		"nock": "^9.0.18",
+		"test-listen": "^1.0.2",
+		"xo": "*"
+	}
+}
