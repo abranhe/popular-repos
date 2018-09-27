@@ -40,7 +40,7 @@ Define the following environment variables:
 - `GITHUB_TOKEN` - [Personal access token.](https://github.com/settings/tokens/new?description=popular-repos)
 - `GITHUB_USERNAME` - The username you like to get repos from.
 - `ACCESS_ALLOW_ORIGIN` - The URL of your website or `*` if you want to allow any origin (not recommended), for the `Access-Control-Allow-Origin` header.
-- `MAX_REPOS` - The number of repos returned. Optional. Defaults to 6.
+- `MAX_REPOS` - The number of repos returned. Optional. Defaults to 8.
 - `CACHE_MAX_AGE` - The maximum age for client cache-control in seconds. Optional. Defaults to 300 (5 minutes).
 
 

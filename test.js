@@ -5,8 +5,8 @@ import nock from 'nock';
 import testListen from 'test-listen';
 import delay from 'delay';
 import etag from 'etag';
-import fixture from './example-response';
-import githubFixture from './github-response';
+import fixture from './response/response';
+import githubFixture from './response/github-response';
 
 const ORIGIN = process.env.ACCESS_ALLOW_ORIGIN;
 const TOKEN = process.env.GITHUB_TOKEN;

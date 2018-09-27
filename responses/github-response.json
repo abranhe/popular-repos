@@ -1,0 +1,104 @@
+[
+  {
+    "name": "shellhacks-cli",
+    "description": "The ShellHacks CLI 🐚",
+    "url": "https://github.com/abranhe/shellhacks-cli",
+    "primaryLanguage": {
+      "name": "JavaScript",
+      "color": "#f1e05a"
+    },
+    "stargazers": {
+      "totalCount": 2
+    },
+    "forks": {
+      "totalCount": 0
+    }
+  },
+  {
+    "name": "bigdecimal",
+    "description": "✖︎ Arithmetic operations in BigDecimal made easier ",
+    "url": "https://github.com/abranhe/bigdecimal",
+    "primaryLanguage": {
+      "name": "Java",
+      "color": "#b07219"
+    },
+    "stargazers": {
+      "totalCount": 3
+    },
+    "forks": {
+      "totalCount": 0
+    }
+  },
+  {
+    "name": "mdc",
+    "description": "🍇  Miami  Dade College Computer Science Classes Purposes.",
+    "url": "https://github.com/abranhe/mdc",
+    "primaryLanguage": {
+      "name": "Java",
+      "color": "#b07219"
+    },
+    "stargazers": {
+      "totalCount": 4
+    },
+    "forks": {
+      "totalCount": 1
+    }
+  },
+  {
+    "name": "abraham",
+    "description": "know me a little by using a cli 🎸",
+    "url": "https://github.com/abranhe/abraham",
+    "primaryLanguage": {
+      "name": "JavaScript",
+      "color": "#f1e05a"
+    },
+    "stargazers": {
+      "totalCount": 4
+    },
+    "forks": {
+      "totalCount": 0
+    }
+  },
+  {
+    "name": "algorithms",
+    "description": "List of several ▲lgorithms and their implementation in multiple languages. Pull request & Issues aren't open here. You can open a pull request or an issue at ",
+    "url": "https://github.com/abranhe/algorithms",
+    "primaryLanguage": null,
+    "stargazers": {
+      "totalCount": 4
+    },
+    "forks": {
+      "totalCount": 1
+    }
+  },
+  {
+    "name": "username",
+    "description": "Get the current user name",
+    "url": "https://github.com/abranhe/username",
+    "primaryLanguage": {
+      "name": "Python",
+      "color": "#3572A5"
+    },
+    "stargazers": {
+      "totalCount": 4
+    },
+    "forks": {
+      "totalCount": 0
+    }
+  },
+  {
+    "name": "github-npm",
+    "description": "Easy way to Release npm packages on Github",
+    "url": "https://github.com/abranhe/github-npm",
+    "primaryLanguage": {
+      "name": "Shell",
+      "color": "#89e051"
+    },
+    "stargazers": {
+      "totalCount": 5
+    },
+    "forks": {
+      "totalCount": 2
+    }
+  }
+]
