@@ -1,5 +1,20 @@
 [
   {
+    "name": "arg",
+    "description": "Parse command line arguments made easier...",
+    "url": "https://github.com/abranhe/arg",
+    "primaryLanguage": {
+      "name": "Python",
+      "color": "#3572A5"
+    },
+    "stargazers": {
+      "totalCount": 2
+    },
+    "forks": {
+      "totalCount": 0
+    }
+  },
+  {
     "name": "shellhacks-cli",
     "description": "The ShellHacks CLI 🐚",
     "url": "https://github.com/abranhe/shellhacks-cli",
@@ -61,7 +76,7 @@
   },
   {
     "name": "algorithms",
-    "description": "List of several ▲lgorithms and their implementation in multiple languages. Pull request & Issues aren't open here. You can open a pull request or an issue at ",
+    "description": "List of several ▲lgorithms and their implementation in multiple languages. Open an issue or make a pull requests on @AllAlgorithms",
     "url": "https://github.com/abranhe/algorithms",
     "primaryLanguage": null,
     "stargazers": {
