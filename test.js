@@ -12,7 +12,7 @@ const ORIGIN = process.env.ACCESS_ALLOW_ORIGIN;
 const TOKEN = process.env.GITHUB_TOKEN;
 const USERNAME = process.env.GITHUB_USERNAME;
 process.env.CACHE_MAX_AGE = 300;
-process.env.MAX_REPOS = 7;
+process.env.MAX_REPOS = 8;
 
 let url;
 

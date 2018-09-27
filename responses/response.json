@@ -12,7 +12,7 @@
   },
   {
     "name": "shellhacks-cli",
-    "description": "The ShellHacks CLI ðŸš",
+    "description": "The ShellHacks CLI 🐚",
     "url": "https://github.com/abranhe/shellhacks-cli",
     "primaryLanguage": {
       "name": "JavaScript",
@@ -23,7 +23,7 @@
   },
   {
     "name": "bigdecimal",
-    "description": "âœ–ï¸Ž Arithmetic operations in BigDecimal made easier ",
+    "description": "✖︎ Arithmetic operations in BigDecimal made easier ",
     "url": "https://github.com/abranhe/bigdecimal",
     "primaryLanguage": {
       "name": "Java",
@@ -34,7 +34,7 @@
   },
   {
     "name": "mdc",
-    "description": "ðŸ‡  Miami  Dade College Computer Science Classes Purposes.",
+    "description": "🍇  Miami  Dade College Computer Science Classes Purposes.",
     "url": "https://github.com/abranhe/mdc",
     "primaryLanguage": {
       "name": "Java",
@@ -45,7 +45,7 @@
   },
   {
     "name": "abraham",
-    "description": "know me a little by using a cli ðŸŽ¸",
+    "description": "know me a little by using a cli 🎸",
     "url": "https://github.com/abranhe/abraham",
     "primaryLanguage": {
       "name": "JavaScript",
@@ -56,7 +56,7 @@
   },
   {
     "name": "algorithms",
-    "description": "List of several â–²lgorithms and their implementation in multiple languages. Open an issue or make a pull requests on @AllAlgorithms",
+    "description": "List of several ▲lgorithms and their implementation in multiple languages. Open an issue or make a pull requests on @AllAlgorithms",
     "url": "https://github.com/abranhe/algorithms",
     "primaryLanguage": null,
     "stargazers": 4,
