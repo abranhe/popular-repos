@@ -5,14 +5,14 @@ import nock from 'nock';
 import testListen from 'test-listen';
 import delay from 'delay';
 import etag from 'etag';
-import fixture from './response/response';
-import githubFixture from './response/github-response';
+import fixture from './responses/response';
+import githubFixture from './responses/github-response';
 
 const ORIGIN = process.env.ACCESS_ALLOW_ORIGIN;
 const TOKEN = process.env.GITHUB_TOKEN;
 const USERNAME = process.env.GITHUB_USERNAME;
 process.env.CACHE_MAX_AGE = 300;
-process.env.MAX_REPOS = 8;
+process.env.MAX_REPOS = 7;
 
 let url;
 

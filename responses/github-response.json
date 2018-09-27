@@ -1,5 +1,20 @@
 [
   {
+    "name": "arg",
+    "description": "Parse command line arguments made easier...",
+    "url": "https://github.com/abranhe/arg",
+    "primaryLanguage": {
+      "name": "Python",
+      "color": "#3572A5"
+    },
+    "stargazers": {
+      "totalCount": 2
+    },
+    "forks": {
+      "totalCount": 0
+    }
+  },
+  {
     "name": "shellhacks-cli",
     "description": "The ShellHacks CLI 🐚",
     "url": "https://github.com/abranhe/shellhacks-cli",
